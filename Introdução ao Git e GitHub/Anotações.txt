@@ -1,1 +1,12 @@
-o gitbash é um terminal extendido para otimizar o uso do Git.
+Link para download do Git: https://git-scm.com/downloads
+
+Introdução ao Git
+
+O Git é um sistema de versionamento de código ditribuído.
+O gitbash é um terminal extendido para otimizar o uso do Git.
+
+Temos comno objeto as:
+Blobs
+Trees 
+Commits
+
