@@ -1,12 +1,19 @@
 Link para download do Git: https://git-scm.com/downloads
 
-Introdução ao Git
+Introdução ao Git e GitHub
 
 O Git é um sistema de versionamento de código ditribuído.
 O gitbash é um terminal extendido para otimizar o uso do Git.
+GitHub é o host do códigp, para onde você envia o repositório.
 
 Temos comno objeto as:
 Blobs
 Trees 
 Commits
+
+echo 'conteudo'  -->   git hash-object --stdin 
+-> código de 40 dígitos sha1 -> fc31e91626... 
+
+echo -e 'conteudo' --> openssl sha1
+-> código de 40 dígitos sha1 diferente -> 65b0d00dda479...
 
